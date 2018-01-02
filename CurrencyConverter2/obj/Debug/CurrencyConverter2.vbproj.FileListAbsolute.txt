@@ -1,0 +1,24 @@
+C:\Users\mickey\AppData\Local\Temporary Projects\CurrencyConverter2\bin\Debug\CurrencyConverter2.exe.config
+C:\Users\mickey\AppData\Local\Temporary Projects\CurrencyConverter2\bin\Debug\CurrencyConverter2.exe
+C:\Users\mickey\AppData\Local\Temporary Projects\CurrencyConverter2\bin\Debug\CurrencyConverter2.pdb
+C:\Users\mickey\AppData\Local\Temporary Projects\CurrencyConverter2\bin\Debug\CurrencyConverter2.xml
+C:\Users\mickey\AppData\Local\Temporary Projects\CurrencyConverter2\obj\Debug\CurrencyConverter2.Form1.resources
+C:\Users\mickey\AppData\Local\Temporary Projects\CurrencyConverter2\obj\Debug\CurrencyConverter2.Resources.resources
+C:\Users\mickey\AppData\Local\Temporary Projects\CurrencyConverter2\obj\Debug\CurrencyConverter2.vbproj.GenerateResource.Cache
+C:\Users\mickey\AppData\Local\Temporary Projects\CurrencyConverter2\obj\Debug\CurrencyConverter2.exe
+C:\Users\mickey\AppData\Local\Temporary Projects\CurrencyConverter2\obj\Debug\CurrencyConverter2.xml
+C:\Users\mickey\AppData\Local\Temporary Projects\CurrencyConverter2\obj\Debug\CurrencyConverter2.pdb
+C:\Users\mickey\Documents\Visual Studio 2012\Projects\CurrencyConverter2\CurrencyConverter2\bin\Debug\CurrencyConverter2.exe.config
+C:\Users\mickey\Documents\Visual Studio 2012\Projects\CurrencyConverter2\CurrencyConverter2\obj\Debug\CurrencyConverter2.exe
+C:\Users\mickey\Documents\Visual Studio 2012\Projects\CurrencyConverter2\CurrencyConverter2\obj\Debug\CurrencyConverter2.xml
+C:\Users\mickey\Documents\Visual Studio 2012\Projects\CurrencyConverter2\CurrencyConverter2\obj\Debug\CurrencyConverter2.pdb
+C:\Users\mickey\Documents\Visual Studio 2012\Projects\CurrencyConverter2\CurrencyConverter2\bin\Debug\CurrencyConverter2.exe
+C:\Users\mickey\Documents\Visual Studio 2012\Projects\CurrencyConverter2\CurrencyConverter2\bin\Debug\CurrencyConverter2.pdb
+C:\Users\mickey\Documents\Visual Studio 2012\Projects\CurrencyConverter2\CurrencyConverter2\bin\Debug\CurrencyConverter2.xml
+C:\Users\mickey\Documents\Visual Studio 2012\Projects\CurrencyConverter2\CurrencyConverter2\obj\Debug\CurrencyConverter2.Form1.resources
+C:\Users\mickey\Documents\Visual Studio 2012\Projects\CurrencyConverter2\CurrencyConverter2\obj\Debug\CurrencyConverter2.Resources.resources
+C:\Users\mickey\Documents\Visual Studio 2012\Projects\CurrencyConverter2\CurrencyConverter2\obj\Debug\CurrencyConverter2.vbproj.GenerateResource.Cache
+C:\Users\mickey\Projects\CurrencyConversion\CurrencyConverter2\bin\Debug\CurrencyConverter2.exe.config
+C:\Users\mickey\Projects\CurrencyConversion\CurrencyConverter2\obj\Debug\CurrencyConverter2.exe
+C:\Users\mickey\Projects\CurrencyConversion\CurrencyConverter2\obj\Debug\CurrencyConverter2.xml
+C:\Users\mickey\Projects\CurrencyConversion\CurrencyConverter2\obj\Debug\CurrencyConverter2.pdb
